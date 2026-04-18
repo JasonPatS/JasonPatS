@@ -1,9 +1,23 @@
 ### 👋 Hi there, I'm Jason!
 
-I'm a first-year student at International Professional University of Technology in Tokyo (東京国際工科専門職大学).
+I'm a second-year Information Engineering student at the Tokyo International Professional University of Technology (IPUT Tokyo), focusing on **Data Science**, **Machine Learning**, and **Human-Computer Interaction (HCI)**.
 
-I recently started my journey in data analysis and have grown fond of data visualization using libraries like Matplotlib in Python. 📈
+I recently started my journey in data analysis! 📈 I am currently mastering the fundamentals of **Pandas** and **NumPy** for data wrangling, and I’ve grown fond of bringing data to life through visualization using **Matplotlib** in Python.
 
-Aside from that, I love to develop simple apps and present them to my friends at my school's presentation club. Some of those apps might get posted here, so feel free to check them out! 😄
+Aside from that, I enjoy developing desktop applications. I act as the sole programmer on my projects (utilizing **PyQt6** for UI development) and regularly present my work at my university's presentation club. My scheduling tool, *Time Pub*, is one of the projects you'll find here! 😄
 
 ---
+
+### 🚀 What I'm Up To
+
+* **Community:** Active member of **GDG on Campus IPUT**.
+* **Current Goal:** Actively seeking AI/Data Science internships where I can contribute to practical development and continue my learning journey.
+* **Status:** Open to collaboration and connecting with fellow developers!
+
+---
+
+### 🌍 Languages
+
+* **English:** TOEIC L&R: 975
+* **Japanese:** JLPT N2 (actively studying for N1)
+* **Indonesian:** Native
